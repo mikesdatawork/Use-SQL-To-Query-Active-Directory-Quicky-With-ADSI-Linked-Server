@@ -50,6 +50,7 @@ select * from openquery
 ')
 ```
 
+![Create ADSI Linked Server To View Active Directory With SQL](https://mikesdatawork.files.wordpress.com/2018/03/image001.png "View Active Directory With SQL")
 
 [![WorksEveryTime](https://forthebadge.com/images/badges/60-percent-of-the-time-works-every-time.svg)](https://shitday.de/)
 
